@@ -12,7 +12,7 @@ int main()
 
     perimeter = 2 * ( width + length );
 
-    printf("Triangle area is %.2f", perimeter);
+    printf("Rectangle perimeter is %.2f", perimeter);
 
     return 0;
 }
