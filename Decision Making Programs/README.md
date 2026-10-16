@@ -1,0 +1,1 @@
+This section contains basic C programming practice programs focused on decision-making concepts such as if, if-else, else-if, nested if, and logical operators to solve problems based on conditions and make decisions in a program.
